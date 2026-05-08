@@ -5,6 +5,13 @@ html {
     scroll-behavior: smooth;
 }
 
+.container {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
 /* Tab Content Visibility */
 .tab-content {
     display: block; /* show all content as single-page layout */
